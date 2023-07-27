@@ -8,8 +8,9 @@ const Billing = () => (
         alt="billing"
         className="w-[100%] h-[100%] relative z-[5]"
       />
-      <div className="absolute z-[3] -left-1/2 top-0 h-[50%] w-[50%]  white__gradient" />
-      <div className="absolute z-[3] -left-1/2 bottom-0 h-[50%] w-[50%] pink__gradient " />
+
+      <div className="absolute z-[0] -left-1/2 top-0 h-[50%] w-[50%]  white__gradient" />
+      <div className="absolute z-[1] -left-1/2 bottom-0 h-[50%] w-[50%] pink__gradient " />
     </div>
     <div className={`${layout.sectionInfo}`}>
       <h2 className={styles.heading2}>
