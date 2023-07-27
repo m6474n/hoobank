@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Live Preview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click here to [Preview]([https://hoobank-m6474n.vercel.app/).
+
 
 ## Available Scripts
 
