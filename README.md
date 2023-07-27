@@ -1,6 +1,6 @@
 # Live Preview
 
-Click here to [Preview]([https://hoobank-m6474n.vercel.app/).
+Click here to [Preview](https://hoobank-m6474n.vercel.app/).
 
 
 ## Available Scripts
